@@ -1,0 +1,15 @@
+.square {
+    margin-top: 40px;
+    width: 200px;
+    height: 200px;
+    background: crimson;
+    transition: background 1s, transform 3s;
+    /* initial state */
+}
+
+.square:hover {
+    background: darkBlue;
+    /* final state */
+    transform: translate(200px);
+    x
+}
